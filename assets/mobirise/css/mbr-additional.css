@@ -1796,6 +1796,33 @@ body {
 .cid-qYWahUGhAa .card-wrapper {
   height: 100%;
 }
+.cid-qYWhQYV4MF {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #55b4d4;
+}
+.cid-qYWhQYV4MF .title {
+  margin-bottom: 2rem;
+}
+.cid-qYWhQYV4MF .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qYWhQYV4MF a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-qYWhQYV4MF a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-qYWhQYV4MF .multi-horizontal {
+  flex-grow: 1;
+  -webkit-flex-grow: 1;
+  max-width: 100%;
+}
+.cid-qYWhQYV4MF .input-group-btn {
+  display: block;
+  text-align: center;
+}
 .cid-qTkAaeaxX5 {
   padding-top: 60px;
   padding-bottom: 60px;
